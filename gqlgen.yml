@@ -7,6 +7,7 @@ schema:
 # resolver reports where the resolver implementations go.
 resolver:
   layout: follow-schema
+  preserve_resolver: true
   dir: .
 
 # gqlgen will search for any type names in the schema in these go packages
