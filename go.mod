@@ -1,6 +1,6 @@
 module todo
 
-go 1.23.0
+go 1.23.4
 
 require (
 	entgo.io/contrib v0.6.0
